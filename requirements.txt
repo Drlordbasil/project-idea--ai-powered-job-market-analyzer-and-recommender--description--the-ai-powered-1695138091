@@ -1,0 +1,7 @@
+The package requirements for this Python program are:
+
+- requests
+- bs4
+- sklearn
+- nltk
+- pandas
